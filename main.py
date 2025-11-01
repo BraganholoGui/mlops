@@ -160,3 +160,5 @@ if __name__ == "__main__":
     model = create_model(X)
     config_mlflow()
     train_model(model, X_train, y_train)
+
+
